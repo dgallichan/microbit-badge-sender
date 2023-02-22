@@ -8,3 +8,4 @@ input.onButtonPressed(Button.B, function () {
     radio.sendString("Button B!")
 })
 radio.setGroup(9)
+basic.showIcon(IconNames.StickFigure)
